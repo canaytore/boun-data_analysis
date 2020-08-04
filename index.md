@@ -1,6 +1,4 @@
-## Welcome to my GitHub page
-
-Here you can see relevant documents and the assignments.
+## Here you can see my assignments and documents related to the course IE48A.
 
 ### [Assignment 1: RMarkdown Homework](assignment1_rmarkdown)
 
