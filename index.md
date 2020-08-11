@@ -8,5 +8,9 @@
 
 ## Week *#2*
 
+* [Assignment 2: Electricity Market Prices](assignment2_dplyr_ggplot2): *Prepared a report about July 2020’s electricity prices using only MCP/SMP data using RMarkdown, dplyr and ggplot2.*
+
+* [R-Exercises related to 'dplyr'](exercises2_dplyr): *The data consists of hourly renewable electricity production of YEKDEM plants from different origins and license types.*
+
 ### ...
 
