@@ -16,7 +16,7 @@
 
 * [Group Assignment: New York City Airbnb Open Data](group_assignment_airbnb): **tbu** *Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.*
 
-* [R-Exercises related to 'shiny'](exercises3_shiny): **tbu**
+* [R-Exercises related to 'shiny'](shiny_app): **tbu**
 
 ## Week *#4*
 
