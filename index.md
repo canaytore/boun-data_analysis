@@ -18,21 +18,16 @@
 
 * [R-Exercises related to 'shiny'](exercises3_shiny): **tbu**
 
-
 ## Week *#4*
 
-* 
-
-* [R-Exercises related to 'dplyr' and 'ggplot2'](exercises4_tennis): **tbu** *The data consists of all necessary tennis information about ATP World Tour 2017*
+* [R-Exercises related to 'join two tables'](exercises4_tennis): **tbu** *The data consists of all necessary tennis information about ATP World Tour 2017.*
 
 ## Week *#5*
 
 * [Assignment 3: tbd](assignment3_tbd): **tbu**
 
-* 
-
 ## Week *#6*
 
 * [Group Project: tbd](group_project_tbd): **tbu**
 
-* 
+* [Bonus Group Project: Introduction of the package ''](group_bonus_project): **tbu**
