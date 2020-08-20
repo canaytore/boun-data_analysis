@@ -16,11 +16,11 @@
 
 * [Group Assignment: New York City Airbnb Open Data](group_assignment_airbnb): **tbu** *Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.*
 
-* [R-Exercises related to 'shiny'](shiny_app): **tbu**
+* [R-Exercises related to 'shiny'](exercises3_shiny): *Application of Movie Length and IMDB Scores*
 
 ## Week *#4*
 
-* [R-Exercises related to 'join two tables'](exercises4_tennis): **tbu** *The data consists of all necessary tennis information about ATP World Tour 2017.*
+* [R-Exercises related to 'join two tables'](exercises4_join): **tbu** *The data consists of all necessary information about Tennis-ATP World Tour 2017.*
 
 ## Week *#5*
 
