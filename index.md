@@ -20,7 +20,9 @@
 
 ## Week *#4*
 
-* [R-Exercises related to 'join two tables'](exercises4_join): **(tbu)** *The data consists of all necessary information about Tennis-ATP World Tour 2017.*
+* [R-Exercises related to 'join two tables'](exercises4_join_superheroes): *The data contains information about fictional characters from different graphic novels.*
+
+* [R-Exercises related to 'join two tables'](exercises4_join_tennis): **(tbu)** *The data consists of all necessary information about Tennis - ATP World Tour 2017.*
 
 ## Week *#5*
 
