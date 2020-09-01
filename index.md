@@ -14,8 +14,8 @@
 ## Week *#3*
 
 * [Group Assignment: New York City Airbnb Open Data](https://pjournal.github.io/boun01g-data-mine-r-s/Assignment/Airbnb.html): *Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.* 
-
   * _Here you can easily run the shiny app in your own RStudio: `shiny::runGitHub("pjournal/boun01g-data-mine-r-s", subdir ="Assignment", ref ="gh-pages")`_
+
 
 * [R-Exercises related to 'shiny'](exercises3_shiny): *Application of Movie Length and IMDB Scores.*
 
