@@ -8,13 +8,14 @@
 
 ## Week *#2*
 
-* [Assignment 2: Electricity Market Prices](assignment2_dplyr_ggplot2): **(Updated on August 18)** *Prepared a report about July 2020’s electricity prices using RMarkdown, dplyr and ggplot2.*
+* [Assignment 2: Electricity Market Prices](assignment2_dplyr_ggplot2): *Prepared a report about July 2020’s electricity prices using RMarkdown, dplyr and ggplot2.*
 
 * [R-Exercises related to 'dplyr' and 'ggplot2'](exercises2_dplyr_ggplot2): *The data consists of hourly renewable electricity production of YEKDEM plants from different origins and license types.*
-
 ## Week *#3*
 
-* [Group Assignment: New York City Airbnb Open Data](group_assignment_airbnb): **(tbu)** *Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.*
+* [Group Assignment: New York City Airbnb Open Data](https://pjournal.github.io/boun01g-data-mine-r-s/Assignment/Airbnb.html): *Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.* 
+
+Here you can easily run the shiny app in your own RStudio: `shiny::runGitHub("pjournal/boun01g-data-mine-r-s", subdir ="Assignment", ref ="gh-pages")`
 
 * [R-Exercises related to 'shiny'](exercises3_shiny): *Application of Movie Length and IMDB Scores.*
 
@@ -32,4 +33,4 @@
 
 * [Group Project: tbd](group_project_tbd): **(tbu)**
 
-* [Bonus Group Project: Introduction of the package ''](group_bonus_project): **(tbu)**
+* [Bonus Group Project: Introduction of the package 'data.table'](group_bonus_project): **(tbu)**
