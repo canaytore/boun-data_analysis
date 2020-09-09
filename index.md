@@ -37,9 +37,12 @@
 - **Group Project:** 2020 Online Car Market of Turkey
   - [Preprocessing](https://pjournal.github.io/boun01g-data-mine-r-s/Project/Preprocessing.html)
   - [Exploratory Data Analysis (EDA)](https://pjournal.github.io/boun01g-data-mine-r-s/Project/ExploratoryDataAnalysis.html)
-  - Shiny App: _`shiny::runGitHub("pjournal/boun01g-data-mine-r-s", subdir = "Project", ref = "gh-pages")`_
   - [Model](https://pjournal.github.io/boun01g-data-mine-r-s/Project/Model.html)
   - [Presentation](https://pjournal.github.io/boun01g-data-mine-r-s/Project/Presentation.html#1)
+  - _Shiny App: `shiny::runGitHub("pjournal/boun01g-data-mine-r-s", subdir = "Project", ref = "gh-pages")`_
 
 - [Bonus Group Project: Introduction of the package 'data.table'](https://pjournal.github.io/boun01g-data-mine-r-s/data.table/datatable.html)
+
+
+*End of my PJournal. For more works, take a glance at [my group's PJournal](https://pjournal.github.io/boun01g-data-mine-r-s/)*
 
