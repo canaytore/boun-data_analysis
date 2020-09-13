@@ -28,9 +28,9 @@
 
 ## Week *#5*
 
-- 🔴 [Assignment 3: **Part 1**: Esoph](assignment3_esoph): *The first dataset from a case-control study of Espophageal Cancer in France.
+- 🔴 [Assignment 3: **Part 1**: Esoph](assignment3_esoph): *The first dataset from a case-control study of Espophageal Cancer in France.*
 
-- 🔴 [Assignment 3: **Part 2**: Young People Survey](assignment3_survey): **(tbu)** *The second dataset from a survey about hobbies and interests answered by students of the Statistics class at FSEV UK and their friends.
+- 🔴 [Assignment 3: **Part 2**: Young People Survey](assignment3_survey): *The second dataset from a survey about hobbies and interests answered by students of the Statistics class at FSEV UK and their friends.*
 
 ## Week *#6*
 
