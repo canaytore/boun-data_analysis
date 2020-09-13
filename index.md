@@ -24,7 +24,7 @@
 
 - [R-Exercises related to 'join two tables': Superheroes](exercises4_join_superheroes): *The data contains information about fictional characters from different graphic novels.*
 
-- [R-Exercises related to 'join two tables': Tennis](exercises4_join_tennis): **(tbu)** *The data consists of all necessary information about Tennis Tournament - ATP World Tour 2017.*
+- [R-Exercises related to 'join two tables': Tennis](exercises4_join_tennis): *The data consists of all necessary information about Tennis Tournament - ATP World Tour 2017.*
 
 ## Week *#5*
 
