@@ -1,4 +1,4 @@
-#### Here you can see my assignments and relevant documents.
+#### Here you can see my assignments (🔴) and relevant documents.
 
 ## Week *#1*
 
