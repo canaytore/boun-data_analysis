@@ -44,6 +44,6 @@
 - 📊 [Bonus Group Project: Introduction of the package 'data.table'](https://pjournal.github.io/boun01g-data-mine-r-s/data.table/datatable.html)
 
 
-*End of my PJournal. For more works, take a glance at my group's PJournal from [**here**](https://pjournal.github.io/boun01g-data-mine-r-s/) 👈*
+*👉 End of my PJournal. For more works, take a glance at my group's PJournal from [**here**](https://pjournal.github.io/boun01g-data-mine-r-s/)*
 
-*Click [here](https://canaytore.github.io/) to return to the home page 🌐*
+*🌐 Click [**here**](https://canaytore.github.io/) to return to the home page*
